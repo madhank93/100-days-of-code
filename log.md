@@ -1,8 +1,6 @@
 # 100 Days Of guitar - Log
 
-## Day 1: July 04, 2020
-
-### Useful playlists
+## Useful playlists
 
 * [Beginner Justin Guitar Lessons 2020](https://www.youtube.com/playlist?list=PLlwfspJqZ126JHOY5rTkKCSAp2Ua907-v)  
 
@@ -12,7 +10,7 @@
 
 * [Justinguitar's Beginners Course (BC)](https://www.youtube.com/playlist?list=PLCAAA4629624F20D8)
 
-### Useful channels
+## Useful channels
 
 * [Steve Stine Guitar Lessons](https://www.youtube.com/channel/UC3mdd4zMNosEVKQic4g7_JQ)
 
