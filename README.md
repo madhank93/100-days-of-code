@@ -28,6 +28,8 @@
 
 * [Indian Sheet Music and Guitar Tabs](https://www.youtube.com/channel/UC88xLZCCJdPg_pXp5D8AgiQ)
 
+* [Christopher Stanley](https://www.youtube.com/c/ChristopherStanleysinger/videos)
+
 **Day 1: Jul 06,2020**: Learned to play D chord on guitar
 
 **Resource link:** [Justin guitar - D chord](https://www.youtube.com/watch?v=QkrIZBLZEXw&list=PLlwfspJqZ126JHOY5rTkKCSAp2Ua907-v&index=8&t=0s)
